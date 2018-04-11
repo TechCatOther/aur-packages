@@ -1,0 +1,3 @@
+[submodule "aps-php-runtime"]
+	path = aps-php-runtime
+	url = git@github.com:TechCatOther/aps-php-runtime.git
